@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aryan0078/soul_api",
   "dependencies": {
+    "ejs": "^3.1.2",
     "express": "^4.17.1",
     "scrape-youtube": "^0.2.0",
     "youtube-dl": "^3.0.2"
